@@ -20,8 +20,16 @@
 ## Ajay Verma
 
 - **GitHub Username**: https://github.com/Ajayvermaxd
-- **Role**: Contributor
+- **Role**: ContributorS
 - **Areas of Expertise**: Recipe Shared
 - **Contact Information**: [studajay3@gmail.com](mailto:studajay3@gmail.com9@gmail.com)
+
+---
+## Patruni Dileep
+
+- **GitHub Username**: https://github.com/di1eep
+- **Role**: Contributor
+- **Areas of Expertise**: Recipe Shared
+- **Contact Information**: [pd9505424580@gmail.com](mailto:pd9505424580@gmail.com)
 
 For information on how to contribute to this project, please refer to the [README.md](./README.md) file and the [CONTRIBUTING.md](./CONTRIBUTING.md) guidelines.
